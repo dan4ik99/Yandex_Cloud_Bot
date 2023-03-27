@@ -7,8 +7,9 @@
 Всего у нас две категории "странных" квартир. В первой категории находятся квартиры с 'излишками' в ремонте. Во второй категории находятся квартиры с 'нехваткой' ремонта. Для наглядности:
 
 Категория 1 (кодовое название - 'избыток')                                            
-![image](https://user-images.githubusercontent.com/47105722/228045585-f893bf4a-4a70-4094-9c34-489e5805cbb3.png
+![image](https://user-images.githubusercontent.com/47105722/228045784-b6a3084f-c397-496e-945e-86dbd6735918.png)
 
 Категория 2 (кодовое название - 'недостаток')
-![image](https://user-images.githubusercontent.com/47105722/228045670-7d3e47a0-2fdf-49e1-bec2-50218e223e0f.png)
+![image](https://user-images.githubusercontent.com/47105722/228045842-c457f3a4-0c9a-4b16-b5f5-c46cc7d31d4a.png)
+
 
